@@ -13,6 +13,7 @@
 		D9F7B3B91FE462F400EECD66 /* CoreData2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D9F7B3B71FE462F400EECD66 /* CoreData2.xcdatamodeld */; };
 		D9F7B3BB1FE462F400EECD66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9F7B3BA1FE462F400EECD66 /* Assets.xcassets */; };
 		D9F7B3BE1FE462F400EECD66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9F7B3BC1FE462F400EECD66 /* LaunchScreen.storyboard */; };
+		D9F7B3C61FE464E800EECD66 /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9F7B3C51FE464E800EECD66 /* AddTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D9F7B3BA1FE462F400EECD66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D9F7B3BD1FE462F400EECD66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D9F7B3BF1FE462F400EECD66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9F7B3C51FE464E800EECD66 /* AddTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D9F7B3B01FE462F400EECD66 /* AppDelegate.swift */,
 				D9F7B3B21FE462F400EECD66 /* ViewController.swift */,
 				D9F7B3B41FE462F400EECD66 /* Main.storyboard */,
+				D9F7B3C51FE464E800EECD66 /* AddTaskViewController.swift */,
 				D9F7B3BA1FE462F400EECD66 /* Assets.xcassets */,
 				D9F7B3BC1FE462F400EECD66 /* LaunchScreen.storyboard */,
 				D9F7B3BF1FE462F400EECD66 /* Info.plist */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9F7B3B91FE462F400EECD66 /* CoreData2.xcdatamodeld in Sources */,
+				D9F7B3C61FE464E800EECD66 /* AddTaskViewController.swift in Sources */,
 				D9F7B3B31FE462F400EECD66 /* ViewController.swift in Sources */,
 				D9F7B3B11FE462F400EECD66 /* AppDelegate.swift in Sources */,
 			);
